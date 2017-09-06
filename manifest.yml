@@ -1,8 +1,8 @@
 ---
 applications:
- - name: apicsimpleapi01
-   host: apicsimpleapi01
+ - name: simplerest
+   host: simplerest
    domain: mybluemix.net
-   path: target/apicsimpleapi01.war
+   path: target/simplerest.war
    memory: 256M
    instances: 1
